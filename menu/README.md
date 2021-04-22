@@ -1,7 +1,8 @@
 # CRUD Menú
-Funciones Básicas de Menú
+<strong>Funciones Básicas de Menú</strong>
+<strong>Usuarios destinados:  Personal de la cafetería </strong>
  <ul> 
- <li><strong> Agregar -  </strong> Permite crear un nuevo ítem del menú <br></li>
+ <li><strong> Agregar -  </strong> Permite crear un nuevo ítem del menú (Alimentos / bebidas) <br></li>
  <li><strong> Modificar -  </strong> Permite modificar un ítem existente <br></li>
  <li><strong> Eliminar -  </strong> Permite eliminar un ítem existente <br></li>
  <li><strong> Mostrar -  </strong> Permite visualizar todos los ítems guardados <br></li>
