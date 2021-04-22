@@ -1,5 +1,5 @@
 # CRUD Menú
-<strong>Funciones Básicas de Menú</strong>
+<strong>Funciones Básicas de Menú</strong><br>
 <strong>Usuarios destinados:  Personal de la cafetería </strong>
  <ul> 
  <li><strong> Agregar -  </strong> Permite crear un nuevo ítem del menú (Alimentos / bebidas) <br></li>
