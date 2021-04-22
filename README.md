@@ -7,6 +7,4 @@ Funciones Básicas de Menú
  <li><strong> Mostrar -  </strong> Permite visualizar todos los ítems guardados <br></li>
  <li><strong> BuscarNombre -  </strong> Permite buscar algun ítem según su nombre <br></li>
  </ul> 
- ![image](https://user-images.githubusercontent.com/36962914/115645458-08474b80-a2e6-11eb-88eb-157c530e4837.png)
 
- <strong>Opciones disponibles</strong><br>
