@@ -8,4 +8,5 @@ Funciones Básicas de Menú
  <li><strong> BuscarNombre -  </strong> Permite buscar algun ítem según su nombre <br></li>
  </ul> 
 <!--![Captura](https://user-images.githubusercontent.com/36962914/115645700-71c75a00-a2e6-11eb-83cf-fd6ca09e1f76.PNG)-->
+<strong> ** Opciones disponibles ** </strong>
 <img src='https://user-images.githubusercontent.com/36962914/115645700-71c75a00-a2e6-11eb-83cf-fd6ca09e1f76.PNG'></img>
